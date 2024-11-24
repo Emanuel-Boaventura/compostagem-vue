@@ -1,7 +1,8 @@
+import AboutView from '@/views/AboutView.vue'
 import ComposterView from '@/views/ComposterView.vue'
+import PathNotFound from '@/views/PathNotFound.vue'
 import WastesView from '@/views/WastesView.vue'
 import { createRouter, createWebHistory } from 'vue-router'
-import AboutView from '@/views/AboutView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -20,6 +21,10 @@ const router = createRouter({
       path: '/sobre',
       name: 'About',
       component: AboutView,
+    },
+    {
+      path: '/:pathMatch(.*)*',
+      component: PathNotFound,
     },
   ],
 })

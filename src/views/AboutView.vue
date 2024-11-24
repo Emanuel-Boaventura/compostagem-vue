@@ -29,7 +29,12 @@ export default {
       hospedado na
       <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">Vercel</a> para o
       acesso publico. O repositório do projeto pode ser acessado
-      <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">clicando aqui.</a>
+      <a
+        href="https://github.com/Emanuel-Boaventura/compostagem-vue"
+        target="_blank"
+        rel="noopener noreferrer"
+        >clicando aqui.</a
+      >
     </p>
 
     <p>Convido a acessar também o meu LinkedIn e portfolio:</p>

@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "name": "Banana (cacho e casca)",
+      "recyclable": "Casca e cacho/cabo",
+      "why": "Casca e cacho/cabo são ricos em potássio e fósforo, nutrientes ideais para adubo orgânico.",
+      "composter": "Adicione diretamente na compoteira, corte em pedaços menores para acelerar a decomposição",
+      "fertilizer": "Triture as cascas e o cabo e enterre diretamente na base de plantas.",
+      "discard": "Se for jogar os restos do cacho de banana no lixo, a forma correta é descartá-los no lixo orgânico ou umido, separado do lixo comum (não reciclável). Coloque os resíduos em um saco biodegradável, se possível, para facilitar o processamento nos aterros sanitários ou usinas de compostagem, caso existam na sua região. Evite colocá-los no lixo reciclável ou misturá-los com resíduos secos, pois isso contamina materiais que poderiam ser reciclados."
+    },
+    {
+      "name": "Cebola (cascas e partes inutilizáveis)",
+      "recyclable": "Cascas e partes não consumíveis",
+      "why": "As cascas são ricas em nutrientes como fósforo e cálcio, ótimos para compostagem.",
+      "composter": "Adicione diretamente na composteira, misturando com outros resíduos para equilibrar os nutrientes.",
+      "fertilizer": "Seque e triture as cascas antes de usar como cobertura em hortas.",
+      "discard": "Coloque no lixo orgânico ou úmido, separado do lixo comum. Utilize um saco biodegradável para garantir o descarte correto em aterros ou usinas de compostagem. Não misture com recicláveis."
+    },
+    {
+      "name": "Pão (sobras e pedaços endurecidos)",
+      "recyclable": "Sobras de pão",
+      "why": "Pode ser usado como fonte de matéria orgânica no processo de compostagem.",
+      "composter": "Corte os pedaços em pequenos tamanhos e adicione à composteira, equilibrando com resíduos secos.",
+      "fertilizer": "Se não contiver mofo, pode ser misturado ao solo como matéria orgânica.",
+      "discard": "Descarte no lixo orgânico ou úmido. Use um saco biodegradável para facilitar o processamento. Não misture com recicláveis."
+    },
+    {
+      "name": "Arroz (cozido ou cru)",
+      "recyclable": "Sobras de arroz",
+      "why": "Fonte de matéria orgânica que ajuda na fertilização do solo.",
+      "composter": "Misture com resíduos secos na composteira para evitar excesso de umidade.",
+      "fertilizer": "Incorpore ao solo em pequenas quantidades para enriquecer a matéria orgânica.",
+      "discard": "Coloque no lixo orgânico ou úmido, separado do lixo comum. Use um saco biodegradável. Evite misturar com recicláveis."
+    },
+    {
+      "name": "Feijão (cozido ou cru)",
+      "recyclable": "Grãos não utilizados",
+      "why": "Rico em nitrogênio, ótimo para adubo orgânico.",
+      "composter": "Adicione à composteira com resíduos secos para evitar mau cheiro.",
+      "fertilizer": "Pode ser usado como adubo orgânico após secar e triturar.",
+      "discard": "Descarte no lixo orgânico ou úmido. Utilize um saco biodegradável para o descarte correto. Não misture com recicláveis."
+    },
+    {
+      "name": "Frango (ossos e restos)",
+      "recyclable": "Apenas em compostagem industrial (não caseira).",
+      "why": "Pode ser transformado em adubo em sistemas industriais.",
+      "composter": "Não recomendado para composteiras caseiras devido ao risco de mau cheiro e pragas.",
+      "fertilizer": "Não aplicável para uso direto em hortas.",
+      "discard": "Descarte no lixo orgânico ou úmido. Embale bem para evitar contaminação e odor. Utilize saco biodegradável, se possível."
+    },
+    {
+      "name": "Casca de laranja",
+      "recyclable": "Casca",
+      "why": "A casca de laranja é rica em óleos essenciais e compostos orgânicos que beneficiam a compostagem.",
+      "composter": "Corte em pedaços pequenos antes de adicionar à composteira para facilitar a decomposição.",
+      "fertilizer": "Triture e misture com o solo em pequenas quantidades, pois pode ser ácida em excesso.",
+      "discard": "Coloque no lixo orgânico ou úmido, separado do lixo comum. Utilize um saco biodegradável para garantir o descarte correto."
+    },
+    {
+      "name": "Restos de café (borra e filtro)",
+      "recyclable": "Borra e filtro",
+      "why": "A borra de café é rica em nitrogênio, ótimo para adubo, e o filtro de papel é biodegradável.",
+      "composter": "Adicione diretamente na composteira. Misture para evitar compactação.",
+      "fertilizer": "Espalhe a borra ao redor de plantas para enriquecer o solo e repelir pragas.",
+      "discard": "Descarte no lixo orgânico, separando o filtro do lixo comum. Evite o reciclável, pois a borra pode contaminar outros materiais."
+    },
+    {
+      "name": "Casca de batata",
+      "recyclable": "Casca",
+      "why": "A casca de batata é rica em carboidratos e nutrientes que aceleram a decomposição.",
+      "composter": "Corte em pedaços pequenos e adicione à composteira para uma decomposição mais eficiente.",
+      "fertilizer": "Enterre diretamente no solo, misturando com outros resíduos orgânicos.",
+      "discard": "Descarte no lixo orgânico, utilizando um saco biodegradável. Evite jogar no reciclável ou lixo comum."
+    },
+    {
+      "name": "Cascas de ovos",
+      "recyclable": "Cascas",
+      "why": "Ricas em cálcio, fortalecem o solo e ajudam na compostagem.",
+      "composter": "Esmague as cascas antes de adicionar à composteira para acelerar a decomposição.",
+      "fertilizer": "Triture as cascas e misture com o solo ou espalhe ao redor das plantas.",
+      "discard": "Descarte no lixo orgânico, utilizando um saco biodegradável para facilitar o processamento."
+    },
+    {
+      "name": "Talos de vegetais (cenoura, couve, brócolis)",
+      "recyclable": "Talos",
+      "why": "Contêm fibras e nutrientes que enriquecem o adubo.",
+      "composter": "Corte os talos em pedaços menores antes de adicionar à composteira.",
+      "fertilizer": "Triture e enterre diretamente no solo para fertilizar plantas.",
+      "discard": "Descarte no lixo orgânico, separado do lixo comum. Use um saco biodegradável para garantir o descarte correto."
+    },
+    {
+      "name": "Restos de frutas (manga, maçã, melancia)",
+      "recyclable": "Restos",
+      "why": "Ricos em açúcares e nutrientes que aceleram a decomposição.",
+      "composter": "Corte os restos em pedaços menores e adicione à composteira.",
+      "fertilizer": "Misture os restos triturados diretamente ao solo para fertilização natural.",
+      "discard": "Coloque no lixo orgânico, separado do comum. Use sacos biodegradáveis, evitando a contaminação de recicláveis."
+    },
+    {
+      "name": "Folhas de verduras (alface, espinafre)",
+      "recyclable": "Folhas",
+      "why": "São macias e decompõem rapidamente, enriquecendo o composto.",
+      "composter": "Adicione diretamente à composteira, cortando se necessário.",
+      "fertilizer": "Misture as folhas ao solo para fertilizar canteiros e hortas.",
+      "discard": "Descarte no lixo orgânico, utilizando um saco biodegradável. Evite misturar com recicláveis."
+    },
+    {
+      "name": "Restos de carne",
+      "recyclable": "Não reciclável",
+      "why": "Pode gerar odores fortes e atrair pragas, sendo menos indicado para compostagem doméstica.",
+      "composter": "Evite adicionar restos de carne à composteira comum. Utilize composteiras específicas para resíduos animais.",
+      "fertilizer": "Não recomendado para uso direto como adubo.",
+      "discard": "Descarte no lixo orgânico, utilizando sacos bem fechados para evitar odores e contaminação."
+    },
+    {
+      "name": "Restos de leite ou derivados (como queijo)",
+      "recyclable": "Não reciclável",
+      "why": "Resíduos lácteos atraem pragas e dificultam o equilíbrio da compostagem.",
+      "composter": "Não recomendado adicionar à composteira doméstica.",
+      "fertilizer": "Não recomendado para uso direto como adubo.",
+      "discard": "Descarte no lixo orgânico, utilizando sacos bem fechados. Evite misturar com recicláveis ou outros resíduos secos."
+    }
+  ]
+}

@@ -45,6 +45,8 @@ a {
   width: 100%;
   margin: 0 auto;
   padding: 0 32px;
+
+  padding-bottom: 96px;
 }
 
 p,
